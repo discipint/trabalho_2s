@@ -174,6 +174,7 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
     a) Geração dos relatórios com gráficos 
     c) relatório deve ter relevância para os prósitos do trabalho
     b) utilizando-se de agrupamentos e junções
+    d) modelo de relatorios colab (https://colab.research.google.com/drive/1LK0GJCl9-6bqJmu_iXukqE8JmKpFOhdf)
     
 
 ## Marco de Entrega 03 em: definida em roadmap<br>
@@ -181,7 +182,7 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 
 ### 10 Ajuste do trabalho conforme solicitações do Professor.
 
-### 11	ATUALIZAÇÃO DA DOCUMENTAÇÃO DOS SLIDES PARA APRESENTAÇAO FINAL (Mínimo 6 e Máximo 10)<br>
+### 11	ATUALIZAÇÃO DA DOCUMENTAÇÃO DOS SLIDES PARA APRESENTAÇAO FINAL (pecha kutcha)<br>
 <br>
     Data de Entrega: (Data a ser definida)
 <br>
