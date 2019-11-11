@@ -174,7 +174,7 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
     a) Geração dos relatórios com gráficos 
     c) relatório deve ter relevância para os prósitos do trabalho
     b) utilizando-se de agrupamentos e junções
-    d) modelo de relatorios colab (https://colab.research.google.com/drive/1LK0GJCl9-6bqJmu_iXukqE8JmKpFOhdf)
+    d) modelo de relatorios colab: https://colab.research.google.com/drive/1LK0GJCl9-6bqJmu_iXukqE8JmKpFOhdf
     
 
 ## Marco de Entrega 03 em: definida em roadmap<br>
